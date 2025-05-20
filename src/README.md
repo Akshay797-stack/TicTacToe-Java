@@ -14,3 +14,17 @@ A simple command-line Tic Tac Toe game built in Java.
 
    ```bash
    git clone https://github.com/Akshay797-stack/TicTacToe-Java.git
+2. Navigate into the project directory:
+
+     cd TicTacToe-Java
+
+3. Compile the program:
+       
+      javac -d out src/com/Akshay/tictactoe/Main.java
+
+4. Run the program:
+
+   java -cp out com.Akshay.tictactoe.Main
+
+
+
